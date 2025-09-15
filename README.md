@@ -39,3 +39,7 @@ Majority of accidents occur in urban areas.
 Cars have the highest number of casualties among vehicle types.
 Daylight conditions account for most accidents, though severity varies.
 Accidents show a year-over-year decline, indicating potential improvements in road safety.
+
+
+<img width="524" height="283" alt="image" src="https://github.com/user-attachments/assets/784bf8ce-351a-4fd7-8859-2797903c8076" />
+
